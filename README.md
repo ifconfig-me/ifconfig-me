@@ -4,9 +4,11 @@ I'm nav1n (Navin), I'm passionate about sharing knowledge, and believe in the mo
 
 Follow me on Twitter: @nav1n0x
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifconfig-me&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifconfig-me&show_icons=true&theme=radical)
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifconfig-me&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifconfig-me&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ifconfig-me&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **ifconfig-me/ifconfig-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
