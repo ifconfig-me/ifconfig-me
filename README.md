@@ -2,7 +2,7 @@
 
 I'm nav1n (Navin), I'm passionate about sharing knowledge, and believe in the motto "sharing is caring." Through Twitter and GitHub I'm trying to empower others in the cybersecurity community to enhance their skills and stay ahead of emerging threats. Follow me on Twitter: [@nav1n0x](https://x.com/nav1n0x/)
 
-![](https://komarev.com/ghpvc/?username=ifconfig-me&color=green) 
+![](https://komarev.com/ghpvc/?username=ifconfig-me&color=blue) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifconfig-me&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifconfig-me&layout=compact&theme=radical)
 
