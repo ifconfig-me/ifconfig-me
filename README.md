@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm nav1n (Navin), I'm passionate about sharing knowledge, and believe in the motto "sharing is caring." Through Twitter and GitHub I'm trying to empower others in the cybersecurity community to enhance their skills and stay ahead of emerging threats. Follow me on Twitter: [@nav1n0x](https://x.com/nav1n0x/)
+I'm nav1n (Navin), I'm passionate about sharing knowledge, and believe in the motto "sharing is caring." Through Twitter and GitHub I'm trying to empower others in the cybersecurity community to enhance their skills and stay ahead of emerging threats. Follow me on Twitter: https://x.com/__nav1n_ 
 
 ![](https://komarev.com/ghpvc/?username=ifconfig-me&color=blue) 
 
